@@ -2,7 +2,7 @@
 methods-inheritance-practicals
 
 
-#Employees and Managers
+# Employees and Managers
 
 Create constructor functions with properties representing the following:
 Person: name, surname
@@ -22,7 +22,7 @@ getData which returns the name, surname and salary
 getSalary which prints out the salary
 increaseSalary which increases the salary by 10% 
 
-#Applications:
+# Applications:
 
 Create constructor functions with properties representing the following:
 WebApp: name, url, technologies, licence, stars
